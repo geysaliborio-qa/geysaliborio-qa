@@ -71,7 +71,7 @@ Meu GitHub é um espaço para compartilhar conhecimentos, desenvolver projetos, 
 
 ## 🤝 Vamos nos conectar?
 
-💼 **LinkedIn:** (https://www.linkedin.com/in/geysaliborio/)
+💼 **LinkedIn:** https://www.linkedin.com/in/geysaliborio/
 
 📧 **E-mail profissional:** geysa_liborio@hotmail.com
 
